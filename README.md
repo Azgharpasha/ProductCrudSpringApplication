@@ -1,0 +1,1 @@
+This is a spring boot project that has all the crud operations that can be performed on a specific data . like retrieving , adding , updating and deleting the data. for future reference for crud opeartions go through thius application.
